@@ -1,4 +1,5 @@
 setwd("./R/getdata_projectfiles_UCI HAR Dataset/UCI HAR Dataset")
+library(plyr)
 # 1. Merge the training and the test sets to create one data set
 
 training_x_file <- read.table("train/X_train.txt")
