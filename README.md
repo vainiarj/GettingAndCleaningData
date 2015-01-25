@@ -16,3 +16,6 @@ Then the script adds Activities and merge all together
 
 
 Last step of the script crate a tidy data (avg_file.txt) where are means of all columns per test subject and per activity
+
+
+Variables, data and transformations and described in the CodeBook.md  
